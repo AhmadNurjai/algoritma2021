@@ -1,0 +1,11 @@
+Tugas algoritma mengurutkan 3 bilangan acak
+
+475 proses pengurutan menggunakan bubble sort.
+1. Membandingkan dua angka pertama yaitu 4 dan
+   7.
+2. Karena 4 lebih kecil dari 7 maka urutan kedua
+   Bilangan ini tidak akan di tukar.
+3. Lalu algoritma akan maju ke pasangan yang kedua
+   Yaitu 7 dan 5. Karena 7 lebih besar dari 5 maka
+   Posisi kedua angka tersebut akan ditukar.
+4. Maka hasil akhirnya (457) Berurut.
